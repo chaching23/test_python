@@ -1,0 +1,335 @@
+.container{
+    width: 970px;
+    height:1350px;
+    margin: 0px auto;
+    
+}
+
+
+.menu{
+    width:930px;
+    height:50px;
+    margin:30px 0px 0px 20px; 
+    background-color: #f7f7f5;
+    border-radius: 5px;
+    background-image: linear-gradient( #f7f6f5, #e0e0e0);
+    border-radius: 5px;
+   
+
+}
+
+    .menu input{
+      
+        border-radius: 25px;
+        display:inline-block; 
+        margin:10px 0px 0px 30px; 
+        vertical-align: top; 
+
+
+
+
+    }
+    .menu h3{
+
+        display:inline-block; 
+        margin:15px 10px 10px 10px;
+        vertical-align: top; 
+        font-family: sans-serif; 
+        border-right: 2px solid grey;
+        padding: 0px 15px 0px 15px; 
+
+
+
+        
+
+    }
+
+
+ 
+.logo{
+
+    display:inline-block;
+    vertical-align: top; 
+    background-color: #5a5a5a; 
+    height: 50px; 
+    width: 60px; 
+    border-radius: 5px;
+
+
+
+
+    }
+
+
+.sea{
+    display:inline-block; 
+    vertical-align: top; 
+    margin-top:10px; 
+    margin-left: -20px; 
+
+
+    }
+
+
+
+
+
+.acc{
+   
+    margin:10px 20px -7px 20px; 
+    height:400px; 
+    width:930px;
+}
+
+
+
+.lll{
+    width: 930px;
+    height: 40px; 
+    Background-color: #4c4c50;
+    margin:0px 5px 0px 20px; 
+    
+ 
+}
+
+
+
+
+
+
+.menu-2{
+    display:inline-block; 
+    color:#a0c9e2; 
+    margin:15px 10px 0px 10px; 
+    font-family: sans-serif;    
+    font-size:14px;
+    border-right: 2px solid grey;
+    padding-right:20px; 
+
+
+}
+
+
+.papi {
+    width: 930px; 
+    height: 488px; 
+    margin: 20px; 
+    background-image: linear-gradient( #fefefe, #f2f2f2)
+
+}
+
+
+
+.pop{
+    width:930px;
+    height: 100px; 
+    border: .5px solid #e7e9e9;
+}
+
+
+.top{
+    display:inline-block; 
+    margin-left:20px;
+    padding : 10px;
+    font-family: sans-serif; 
+    font-weight: lighter;  
+    color: grey; 
+    border-right: .5px solid #e7e9e9;
+       
+
+
+    }
+
+
+.button{
+    background-color: #4481b2; 
+    color: white; 
+    width:250px;
+    text-align: center; 
+    height: 50px; 
+    margin-left:80px;
+    font-weight: normal; 
+    display:inline-block; 
+    vertical-align: top; 
+    margin-top: 25px; 
+    font-size:15px;
+    font-family: sans-serif; 
+    border-radius: 10px;
+
+
+
+    }
+
+
+.bottom{
+    width:930px;
+    height: 335px; 
+    border: .5px solid #e7e9e9;
+
+
+
+}
+
+
+
+.trey{
+    display:inline-block; 
+    width: 200px; 
+    height: 320px; 
+    vertical-align: top;
+    margin: 10px 10px 10px 25px; 
+    border-right: .5px solid #e7e9e9;
+   
+     
+}
+
+      
+            
+            
+.bb{
+
+    background-color: #5caee9b2; 
+    color: white; 
+    width:180px;
+    text-align: center; 
+    height: 30px; 
+    border-radius: 5px;
+
+}
+.bb-2{
+    background-color: #5caee9b2; 
+    color: white; 
+    width:180px;
+    text-align: center; 
+    height: 30px; 
+    border-radius: 5px;
+    margin-left:10px;
+    }
+
+
+.v{
+    width:180px;
+    height: 140px; 
+
+
+
+}
+
+.v-2{
+    width:180px;
+    height:102px; 
+    margin: 10px;
+
+
+
+}
+
+
+
+
+.way{
+    display:inline-block; 
+    width: 200px; 
+    height: 320px; 
+    vertical-align: top; 
+    margin:10px; 
+    padding-right:10px;
+    border-right: .5px solid #e7e9e9;
+}
+
+
+
+.trey-2{
+    width: 200px; 
+    height: 320px; 
+    vertical-align: top; 
+    display:inline-block; 
+    margin:10px; 
+    padding-right:10px;
+    border-right: .5px solid #e7e9e9;
+}
+.way-2{
+    width: 200px; 
+    height: 320px; 
+    vertical-align: top; 
+    display:inline-block;
+    margin:10px; 
+}
+
+
+
+.random{
+
+    width:930px;
+    height: 50px; 
+    border: .5px solid #e7e9e9;
+
+
+}
+
+
+.fmenu{
+    border-bottom: 1px solid #e7e9e9;
+    margin:20px; 
+
+}
+
+
+.x{
+    display:inline-block;
+    margin: 10px 15px 15px 10px; 
+    width:120px; 
+    vertical-align: top;
+    font-family: sans-serif; 
+    color: #949293; 
+
+
+    }
+
+ 
+
+    .x h3{
+        margin: 10px 10px 10px 0px; 
+        border-bottom: 2px solid #e7e9e9;
+        font-size:14px;
+        padding:10px 10px 10px 0px;
+        font:bold; 
+        color:black; 
+
+
+
+
+    }
+
+    .x p{
+        margin: 10px 10px 10px 0px; 
+        font-size:12px;
+
+
+}
+
+
+.footer p{
+    display:inline-block;
+    margin:15px 5px 5px 5px;
+    padding: 0px 25px; 
+    font-size:10px;
+    font-family: sans-serif; 
+    color: #949293; 
+
+
+}
+
+.z{
+    border-right: 2px solid grey;
+    padding: 0px 25px; 
+
+
+}
+
+.y{
+    border-right: 2px solid grey;
+    padding: 0px 25px; 
+
+
+}
